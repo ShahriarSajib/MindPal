@@ -75,7 +75,7 @@ mindpal-ai/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mindpal-ai.git
+git clone https://github.com/ShahriarSajib/MindPal.git
 cd mindpal-ai
 ```
 
