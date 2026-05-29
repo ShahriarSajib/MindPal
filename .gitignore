@@ -1,0 +1,22 @@
+# 1. ENVIRONMENT VARIABLES & CREDENTIALS (CRITICAL)
+.env
+
+# 2. STREAMLIT SPECIFIC CONFIGS
+.streamlit/
+! .streamlit/config.toml
+
+# 3. PYTHON VIRTUAL ENVIRONMENTS
+venv/
+.venv/
+env/
+ENV/
+pyvenv.cfg
+.python-version
+
+__pycache__/
+
+.db/
+mindpal_history.db
+
+
+
